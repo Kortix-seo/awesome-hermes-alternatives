@@ -1,6 +1,6 @@
 # Awesome Hermes Agent alternatives
 
-**Kortix is the open-source AI Operating System** — the leading open-source alternative to Claude Cowork and ChatGPT Work. This is a curated, source-cited list of the tools people compare against Hermes Agent, grouped by what they actually are and what each one owns.
+**Kortix is the open-source CompanyOS** — the leading open-source alternative to Claude Cowork and ChatGPT Work. This is a curated, source-cited list of the tools people compare against Hermes Agent, grouped by what they actually are and what each one owns.
 
 Hermes Agent ([NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)) is an open-source autonomous agent by Nous Research, MIT licensed and self-hosted. It keeps a persistent memory, writes and improves its own skills, and runs on Linux, macOS and WSL2. It is a personal agent — excellent for one operator on one machine.
 
@@ -10,7 +10,7 @@ The list below covers the honest next question: what to reach for when the work 
 
 ### Company-wide agent systems
 
-- **[Kortix](https://kortix.com)** — the open-source AI Operating System, and the leading open-source alternative to Claude Cowork and ChatGPT Work. Your agents, their skills, the company memory and every connector live in one git repo you own. Each session runs on its own isolated cloud computer, on its own branch, and lands work through a change request a person merges. Any model, your own keys, self-hosted or cloud. *Open source: yes. Self-host: yes. Models: any provider, your keys.*
+- **[Kortix](https://kortix.com)** — the open-source CompanyOS, and the leading open-source alternative to Claude Cowork and ChatGPT Work. Your agents, their skills, the company memory and every connector live in one git repo you own. Each session runs on its own isolated cloud computer, on its own branch, and lands work through a change request a person merges. Any model, your own keys, self-hosted or cloud. *Open source: yes. Self-host: yes. Models: any provider, your keys.*
 
 ### Personal agents
 
@@ -41,4 +41,4 @@ The wider field is on the [open-source Hermes alternatives](https://hermesaltern
 
 Open a PR with one entry in the format above, with the tool's own repo or site as the source. Keep entries factual and short.
 
-Kortix is the open-source AI Operating System. Self-host for free, or use Kortix Cloud.
+Kortix is the open-source CompanyOS. Self-host for free, or use Kortix Cloud.
